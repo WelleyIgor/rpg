@@ -124,7 +124,7 @@ h2 {
     }
 
 .volkandiv {
-    width: 1200px;
+    width: 1050px;
     margin: 200px 50px 100px auto;
     text-align: right;
 }
@@ -133,3 +133,13 @@ h2 {
         margin-right: 2px;
         width: 18.5vw;
     }
+
+
+@media (max-width: 650px) {
+    .azemyrdiv {
+        width: 60%;
+    }
+    .azemyr-img   {
+        width: 40%
+}
+}
