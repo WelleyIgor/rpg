@@ -1,0 +1,135 @@
+h1 {
+    position: relative;
+    text-align: center;
+    font-family: 'MedievalSharp', cursive;
+}
+li {
+    list-style: none;
+    font-size: 20px;
+}
+h2 {
+    padding-top: 50px;
+    font-size: 2rem;
+    font-weight: normal;
+    font-family: 'MedievalSharp', cursive;
+}
+
+
+.map{
+    text-decoration: none;
+}
+.personagens {
+    text-decoration: none;
+}
+.monstros {
+    text-decoration: none;
+}
+.npcs {
+    text-decoration: none;
+}
+
+
+.logo {
+    margin-right: 50px;
+}
+.container {
+    max-width: auto;
+    margin: 0 auto;
+    padding: 15px;
+}
+.barra {
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: grey;
+    padding-block: 15px;
+}
+.barra a {
+    text-decoration: none;
+    color: #fff;
+}
+.menu-icons {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+.logo {
+    margin-right: 50px;
+}
+#toggler,
+.barra label {
+    display: none;
+}
+
+
+#personagens {
+    opacity: 10;
+    background-size: cover;
+    padding: 50px 0px;
+    min-height: 300px;
+    text-align: center;
+    background-size: cover;
+
+}
+.azemyrdiv {
+    width: 1090px;
+    margin: 120px auto 100px 100px;
+    text-align: left;
+}
+    .azemyr-img {
+        float: left;
+        margin-right: 100px;
+        width: 22vw;
+    }
+.kaparzodiv {
+    width: 1200px;
+    margin: 180px 10px 100px auto;
+    text-align: right;
+}
+    .kaparzo-img {
+        margin: none;
+        float: right;
+        width: 35vw;
+    }
+.rannidiv {
+    width: 1200px;
+    margin: 150px 200px 100px auto;
+    text-align: left;
+    
+}
+    .ranni-img {
+        float: left;
+        width: 35vw;
+    }
+.taskrockdiv {
+    width: 1200px;
+    margin: 180px 10px 100px auto;
+    text-align: right;
+}
+    .taskrock-img {
+        float: right;
+        width: 32vw;
+    }
+.radrieldiv {
+    width: 1200px;
+    margin: 180px auto 100px 50px;
+    text-align: left;
+}
+    .radriel-img {
+    float: left;
+    margin-right: 2px;
+    width: 30vw;
+    }
+
+.volkandiv {
+    width: 1200px;
+    margin: 200px 50px 100px auto;
+    text-align: right;
+}
+    .volkan-img {
+        float: right;
+        margin-right: 2px;
+        width: 18.5vw;
+    }
