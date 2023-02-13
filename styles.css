@@ -137,10 +137,7 @@ h2 {
 
 
 @media (max-width: 650px) {
-    .azemyrdiv {
-        width: 60%;
+    #personagens {
+        width: 11.25em;
     }
-    .azemyr-img   {
-        width: 40%
-}
 }
